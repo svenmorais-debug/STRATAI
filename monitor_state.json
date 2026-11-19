@@ -1,0 +1,22 @@
+{
+  "consecutive_contract_failures": 0,
+  "escalation_reason": null,
+  "last_check": {
+    "checked_at": "2026-11-19T22:44:44.255555+00:00",
+    "detail": "HTTP 503",
+    "elapsed_ms": 10023,
+    "epa_total": null,
+    "failed_stage": "A",
+    "failure_code": "http_status",
+    "http_status": 503,
+    "matches_played": null,
+    "ready": false,
+    "stage_a_passed": false,
+    "stage_b_passed": false,
+    "url": "https://api.statbotics.io/v3/team_event/1678/2024casj"
+  },
+  "pass_dates": [],
+  "recovery_confirmed_at": null,
+  "schema_version": 1,
+  "status": "WAITING"
+}
